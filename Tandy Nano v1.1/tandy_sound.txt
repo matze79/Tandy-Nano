@@ -1,0 +1,36 @@
+Stückliste exportiert aus /home/int9h/Schreibtisch/projects/Tandy Nano v1.1/tandy_sound.sch am 29.08.20 11:24
+
+Part Value                Device               Package      Description                                                          MF MPN           OC_FARNELL OC_NEWARK POPULARITY PROD_ID    SF_ID    
+C1   100nf                C2,5-3               C2.5-3       CAPACITOR                                                                                                                                 
+C2   100nf                C2,5-3               C2.5-3       CAPACITOR                                                                                                                                 
+C3   100nf                C2,5-3               C2.5-3       CAPACITOR                                                                                                                                 
+C4   10uf                 CPOL-EUE2.5-6        E2,5-6       POLARIZED CAPACITOR, European symbol                                                                                                      
+C5   10uf                 CPOL-EUE2.5-6        E2,5-6       POLARIZED CAPACITOR, European symbol                                                                                                      
+C6   68pf                 C-EU025-030X050      C025-030X050 CAPACITOR, European symbol                                                                                                                
+C7   47NF                 C-EU025-030X050      C025-030X050 CAPACITOR, European symbol                                                                                                                
+C8   220UF                CPOL-EUE2,5-6E       E2,5-6E      POLARIZED CAPACITOR, European symbol                                                                                                      
+C9   470uf                CPOL-EUE2.5-6        E2,5-6       POLARIZED CAPACITOR, European symbol                                                                                                      
+C10  100nf                C2,5-3               C2.5-3       CAPACITOR                                                                                                                                 
+C11  470nf                C-EU025-030X050      C025-030X050 CAPACITOR, European symbol                                                                                                                
+C12  100NF                C-EU025-030X050      C025-030X050 CAPACITOR, European symbol                                                                                                                
+C13  100nf                C2,5-3               C2.5-3       CAPACITOR                                                                                                                                 
+D1   1N4004               1N4004               DO41-10      DIODE                                                                                                                                     
+D2   1N4004               1N4004               DO41-10      DIODE                                                                                                                                     
+IC1  74AC74N              74AC74N              DIL14        Dual D type positive edge triggered FLIP FLOP, preset and clear                                                                           
+IC2  74HC688N             74HC688N             DIL20        8-bit MAGNITUDE/IDENTITY COMPARATOR, totem pole                                                                                           
+IC3  LM386N-1             LM386N-1             DIL08        Low Voltage Audio Power Amplifier                                                                                                         
+IC4  7805T                7805T                TO220H       Positive VOLTAGE REGULATOR                                                                                 35                             
+IC5  TINY13-20PU          TINY13-20PU          DIL08        8-bit AVR Microcontroller with 1K Bytes In-System Programmable Flash    ATTINY13-20PU 9171550    96K6521                                  
+J1   AUDIO_JACK_3.5MM_PTH AUDIO_JACK_3.5MM_PTH AUDIO-JACK   Audio Jack                                                                                                            CONN-08774 PRT-08032
+JP1                       JP2E                 JP2          JUMPER                                                                                                                                    
+JP2                       JP1E                 JP1          JUMPER                                                                                                                                    
+R1   10                   R-EU_0207/10         0207/10      RESISTOR, European symbol                                                                                                                 
+R2   33                   R-US_0204/2V         0204V        RESISTOR, American symbol                                                                                                                 
+R3   10K                  TRIM_EU-PT10S        PT-10S       POTENTIOMETER                                                                                                                             
+R4   1k                   R-EU_0207/10         0207/10      RESISTOR, European symbol                                                                                                                 
+R5   10k                  R-US_0204/2V         0204V        RESISTOR, American symbol                                                                                                                 
+R9   1K                   R-US_0204/2V         0204V        RESISTOR, American symbol                                                                                                                 
+R13  2,2k                 R-EU_0207/10         0207/10      RESISTOR, European symbol                                                                                                                 
+ST1                       IBM8BIT              IBM8BIT      8-bit CARD IBM/PC-AT                                                                                                                      
+T1   BC547                BC547                TO92         NPN TRANSISTOR                                                                                                                            
+U$1  SN76489              SN76489SN76489       DIL16                                                                                                                                                  
